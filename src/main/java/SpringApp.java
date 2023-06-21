@@ -16,5 +16,4 @@ public class SpringApp {
         driver = context.getBean("pickupDriver", Driver.class);
         driver.driverReadyToStart();
     }
-
 }

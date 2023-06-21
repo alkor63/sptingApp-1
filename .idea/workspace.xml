@@ -4,22 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad5f9068-ee12-43e0-bab8-68d22a23b420" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SpringApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/driver/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/trsnsport/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/trsnsport/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/trsnsport/Pickup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/trsnsport/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="ad5f9068-ee12-43e0-bab8-68d22a23b420" name="Changes" comment="2nd commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SpringApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/driver/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/driver/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/trsnsport/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/trsnsport/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/trsnsport/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/trsnsport/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/trsnsport/Pickup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/trsnsport/Pickup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/trsnsport/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/trsnsport/Transport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +28,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -67,11 +66,24 @@
       <workItem from="1687351121627" duration="687000" />
       <workItem from="1687352053171" duration="813000" />
       <workItem from="1687352954771" duration="1210000" />
-      <workItem from="1687354408375" duration="6343000" />
+      <workItem from="1687354408375" duration="7459000" />
     </task>
+    <task id="LOCAL-00001" summary="1st commit">
+      <created>1687361121036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687361121036</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st commit" />
+    <MESSAGE value="2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
   </component>
 </project>

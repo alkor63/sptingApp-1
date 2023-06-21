@@ -12,12 +12,11 @@ public class Driver {
     }
 
     public void driverReadyToStart() {
-        System.out.println(driverName +" сел(а) за руль и готов ехать ");
-//        car.start();
+        System.out.println(driverName + " сел(а) за руль и готов ехать ");
     }
 
     @Override
     public String toString() {
-        return "Водитель " +driverName+ " автомобиля " + transport.getBrand() +" "+transport.getModel();
+        return "Водитель " + driverName + " автомобиля " + transport.getBrand() + " " + transport.getModel();
     }
 }
